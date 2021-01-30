@@ -1,0 +1,106 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.container{
+    max-width: 1442px;
+
+
+}
+.row{
+    margin: 0 -15px;
+
+}
+.col-4 {
+
+    display: flex;
+
+}
+.cat_first{
+    position: absolute;
+    content: "";
+    width: 380px;
+    height: 264px;
+
+}
+.cat_first:hover{
+    background-color: #6EBBD3;
+
+}
+.cat_second{
+    position: absolute;
+    content: "";
+    width: 380px;
+    height: 264px;
+}
+.cat_second:hover{
+    background-color: #6EBBD3;
+}
+.cat_3{
+    position: absolute;
+    content: "";
+    width: 380px;
+    height: 264px;
+
+}
+.cat_3:hover{
+    background-color: #6EBBD3;
+}
+
+.cat_items{
+
+}
+
+.cat_items:hover{
+
+}
+
+.title_items{
+
+}
+
+.title_desc{
+
+}
+.title_desc:hover{
+
+}
+
+.title_desc_age{
+
+}
+.title_desc_age:hover{
+
+}
+.title_items_desc{
+
+}
+.title_items_desc:hover{
+
+}
+
+.info_quantity{
+
+}
+
+.info_quantity_title{
+
+}
+.info_quantity_title:hover{
+
+}
+.title_items_desc{
+
+}
+.title_items_desc:hover{
+
+}
+.price{
+
+}
+
+.btn{
+
+}
+.btn:hover{
+
+}
